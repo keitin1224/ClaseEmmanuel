@@ -1,0 +1,5 @@
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.AssemblyInfo.cs
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.sourcelink.json

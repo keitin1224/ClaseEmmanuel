@@ -1,0 +1,15 @@
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0\OperacionesMatematicas.exe
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0\OperacionesMatematicas.deps.json
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0\OperacionesMatematicas.runtimeconfig.json
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0\OperacionesMatematicas.dll
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0\OperacionesMatematicas.pdb
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0\OperacionesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0\OperacionesMatematicas.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0\OperacionesMatematicas.AssemblyInfo.cs
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0\OperacionesMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0\OperacionesMatematicas.sourcelink.json
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0\OperacionesMatematicas.dll
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0\refint\OperacionesMatematicas.dll
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0\OperacionesMatematicas.pdb
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0\OperacionesMatematicas.genruntimeconfig.cache
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0\ref\OperacionesMatematicas.dll
