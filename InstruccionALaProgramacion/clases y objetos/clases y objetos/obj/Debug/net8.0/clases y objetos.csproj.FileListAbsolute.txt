@@ -3,3 +3,13 @@ C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\cl
 C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.AssemblyInfo.cs
 C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.csproj.CoreCompileInputs.cache
 C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.sourcelink.json
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\bin\Debug\net8.0\clases y objetos.exe
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\bin\Debug\net8.0\clases y objetos.deps.json
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\bin\Debug\net8.0\clases y objetos.runtimeconfig.json
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\bin\Debug\net8.0\clases y objetos.dll
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\bin\Debug\net8.0\clases y objetos.pdb
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.dll
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\refint\clases y objetos.dll
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.pdb
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\clases y objetos.genruntimeconfig.cache
+C:\Users\aliso\OneDrive\Documentos\Cursos\Emmanuel\InstruccionALaProgramacion\clases y objetos\clases y objetos\obj\Debug\net8.0\ref\clases y objetos.dll
